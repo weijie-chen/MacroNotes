@@ -1,2 +1,2 @@
 # MacroNotes
-My notes for textbooks, written probabably a decade ago, but every 2 or 3 years.
+My notes for textbooks, written in 2009-2014, but mostly updated in recent years.
